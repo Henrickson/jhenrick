@@ -1,0 +1,17 @@
+.header .container{
+	font-family: verdana;
+	
+}
+
+
+.header h1{
+	color: #cc0000;
+	text-transform: capitalize;
+
+}
+
+.header h3{
+	text-indent: 30px;
+	float:right;
+	padding-top: 10px;
+}
